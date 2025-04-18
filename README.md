@@ -1,4 +1,4 @@
-<h1 align="center">Hiya ␛, I'm Manuja</h1>
+<h1 align="center">Hey, It's Manuja</h1>
 <h3 align="center">Unleashing the Power of Python</h3>
 
 <img height="180em" width="2001em" align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--z_y4wDUd--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/n9b2p3j0h1mdqvms3ogc.gif" alt="matrix" />
